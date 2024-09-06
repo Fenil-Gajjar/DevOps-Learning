@@ -4,7 +4,7 @@ echo " Installing Dependencies "
 sudo yum install wget httpd unzip -y > /dev/null
 
 echo " Start & Enable httpd "
-udo systemctl start httpd
+sudo systemctl start httpd
 sudo systemctl enable httpd
 
 echo " Creating temp directories "
