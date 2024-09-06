@@ -9,7 +9,7 @@ echo
 echo "#######################################"
 echo "The uptime of the system is:"
 uptime
-echo
+echo 
 
 
 #Memory Utilization
